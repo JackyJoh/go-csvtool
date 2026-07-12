@@ -2,10 +2,6 @@
 
 A small CLI tool for poking around CSV files from the terminal. Built as a Go learning project before starting [JacksonDB](#), a columnar storage engine.
 
-## Why this exists
-
-I hadn't touched Go before this. Rather than learning the language in a vacuum, I built something small and useful: a command-line tool that loads a CSV and answers basic questions about it. No frameworks, no external dependencies beyond the standard library.
-
 ## Commands
 
 ```bash
@@ -26,31 +22,23 @@ Prints every value in a given column.
 ## Example
 
 ```bash
-$ csvtool stats markets.csv
+$ csvtool stats fifa_players.csv
 
-category      count=1822
-yes_ask       min=0.02  max=0.98  mean=0.51
-volume        min=0     max=48210 mean=1204.6
+short_name{ count: 500 }
+overall{ count: 500, min: 54, max: 90, avg: 71.03}
+value_eur{ count: 500, min: 70000, max: 99500000, avg: 6999880.00}
 
-$ csvtool head markets.csv --n 3
+$ csvtool head fifa_players.csv --n 3
 
-ticker              category   yes_ask   volume
-KXBTCD-26JUL0517     crypto     0.87      412
-KXETHD-26JUL0517     crypto     0.62      198
-KXPOL-26JUL0517       politics  0.31      3021
+short_name, club_name, overall, value_eur
+L. Messi, Inter Miami, 90, 41000000
+A. Griezmann, Atlético Madrid, 88, 74000000
+Martin Ødegaard, Arsenal, 87, 99500000
 
-$ csvtool col markets.csv --name category
+$ csvtool col fifa_players.csv --name club_name
 
-crypto
-crypto
-politics
+Inter Miami
+Atlético Madrid
+Arsenal
 ...
 ```
-
-## What it's not
-
-No writing or editing CSVs. No filtering, joins, or multi-file support. Numeric column detection is automatic, not configurable. This is intentionally scoped small — it's a warmup, not a product.
-
-## Built with
-
-Go standard library only (`encoding/csv`, `os`, `bufio`, `strconv`).
