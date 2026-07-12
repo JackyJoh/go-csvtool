@@ -91,5 +91,4 @@ func main() {
 
 	}
 
-	fmt.Println(os.Args)
 }
