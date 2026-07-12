@@ -2,6 +2,8 @@ package main
 
 import (
 	"errors"
+	"fmt"
+	"strconv"
 )
 
 func head(ds Dataset, n int) ([][]string, error) {
@@ -34,4 +36,53 @@ func cols(ds Dataset, index int) ([]string, error) {
 	}
 
 	return col, nil
+}
+
+func stats(ds Dataset) {
+
+	for colIdx := range ds.Header {
+		// metric vars
+		var min float64
+		var max float64
+		var sum float64
+		var count int
+		isNumeric := true
+		seenFirst := false
+
+		for _, row := range ds.Rows {
+
+			// acummulate metrics
+			cell, err := strconv.ParseFloat(row[colIdx], 64)
+			if err != nil {
+				isNumeric = false
+			} else {
+				if !seenFirst {
+					min = cell
+					max = cell
+					seenFirst = true
+				} else {
+					if cell < min {
+						min = cell
+					}
+					if cell > max {
+						max = cell
+					}
+				}
+				sum += cell
+			}
+			count++
+		}
+
+		// print stats for row
+		fmt.Print(ds.Header[colIdx])
+		fmt.Printf("{ count: %d", count)
+		if isNumeric {
+			avg := sum / float64(count)
+			fmt.Printf(", min: %.0f, max: %.0f, avg: %.2f}\n", min, max, avg)
+		} else {
+			fmt.Println(" }")
+		}
+
+	}
+
 }

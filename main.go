@@ -46,7 +46,7 @@ func main() {
 
 	switch os.Args[1] {
 	case "stats":
-		// call commands stats
+		stats(ds) // prints within function
 
 	case "head":
 		n := 10 // default 10 rows
