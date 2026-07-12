@@ -16,6 +16,15 @@ func printRows(header []string, rows [][]string) {
 	}
 }
 
+func printCol(header string, values []string) {
+	fmt.Println(header)
+	for _, v := range values {
+		fmt.Println(v)
+	}
+}
+
+var defaultCsv = "fifa_players.csv"
+
 func main() {
 
 	// load dataset
@@ -23,8 +32,8 @@ func main() {
 	ds, err := load(os.Args[2])
 	if err != nil {
 		if errors.Is(err, fs.ErrNotExist) {
-			fmt.Println("file not found, using default: kalshi_crypto.csv")
-			ds, err = load("kalshi_crypto.csv")
+			fmt.Println("file not found, using default: " + defaultCsv)
+			ds, err = load(defaultCsv)
 			if err != nil {
 				fmt.Println("fallback also failed:", err)
 				return
@@ -64,7 +73,14 @@ func main() {
 		index, err := colIndex(ds.Header, name)
 		if err != nil {
 			fmt.Println("error getting header index:", err)
+			return
 		}
+		column, err := cols(ds, index)
+		if err != nil {
+			fmt.Println("error:", err)
+			return
+		}
+		printCol(name, column)
 
 	}
 

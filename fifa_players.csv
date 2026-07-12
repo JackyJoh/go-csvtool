@@ -1,0 +1,501 @@
+short_name,club_name,nationality_name,player_positions,age_fifa,overall,potential,value_eur,wage_eur,height_cm,weight_kg,preferred_foot,pace,shooting,passing,dribbling,defending,physic
+L. Messi,Inter Miami,Argentina,"CF, CAM",36,90,90,41000000.0,23000.0,169,67,Left,80,87,90,94,33,64
+A. Griezmann,Atlético Madrid,France,"ST, CF",32,88,88,74000000.0,135000.0,176,73,Left,80,88,87,88,58,75
+Martin Ødegaard,Arsenal,Norway,CM,25,87,89,99500000.0,195000.0,178,68,Left,70,82,89,89,67,66
+Serhou Guirassy,Borussia Dortmund,Guinea,ST,28,86,86,69500000.0,95000.0,187,82,Right,69,86,71,80,39,79
+Trent Alexander-Arnold,Liverpool,England,RB,26,86,87,74000000.0,140000.0,180,69,Right,75,72,90,80,80,74
+Rafael Leao,AC Milan,Portugal,LW,25,85,88,71500000.0,195000.0,188,81,Right,94,79,80,87,28,77
+R. Kolo Muani,Paris Saint Germain,France,"ST, RM",24,84,87,58500000.0,110000.0,187,73,Right,91,78,73,86,38,67
+A. Di Maria,Juventus,Argentina,RW,34,84,84,20000000.0,160000.0,180,69,Left,79,79,84,87,48,67
+Manuel Neuer,FC Bayern München,Germany,GK,38,84,84,4700000.0,35000.0,193,93,Right,10,10,10,10,10,10
+J. Ilicic,Atalanta,Slovenia,"CF, ST",33,84,84,27000000.0,84000.0,190,79,Left,75,86,84,86,40,67
+Christian Pulisic,AC Milan,United States,RW,26,84,85,50500000.0,175000.0,178,73,Right,88,82,78,86,37,63
+R. De Paul,Atlético Madrid,Argentina,CM,29,84,84,41000000.0,85000.0,180,70,Right,78,77,83,82,75,83
+Mikel Merino,Real Sociedad,Spain,"CM, CAM, LM",27,84,85,48000000.0,54000.0,189,83,Left,72,78,82,82,83,82
+L. Hernandez,Paris Saint Germain,France,"CB, LB",27,84,85,42500000.0,105000.0,184,79,Left,76,54,70,70,84,78
+M. Diaby,Aston Villa,France,"RM, LM",23,84,88,60500000.0,105000.0,171,67,Left,95,73,75,86,42,59
+P. Schick,Bayer 04 Leverkusen,Czech Republic,ST,27,83,84,42500000.0,80000.0,191,86,Left,79,80,71,81,37,76
+Oyarzabal,Real Sociedad,Spain,"LM, RM, LW",26,83,84,43000000.0,49000.0,181,79,Left,77,83,80,83,41,62
+L. Shaw,Manchester United,England,"LB, CB",27,83,83,35000000.0,135000.0,181,75,Left,76,57,82,79,81,78
+H. Mkhitaryan,Roma,Armenia,"CF, RM, RW",32,83,83,29500000.0,82000.0,177,75,Right,85,80,79,83,56,74
+E. Garay,Valencia,Argentina,CB,32,83,83,16500000.0,48000.0,189,90,Right,43,60,67,62,82,81
+P. Kimpembe,Paris Saint Germain,France,CB,26,83,86,42000000.0,95000.0,189,80,Left,80,43,68,69,83,86
+J. Seri,Nice,Côte d'Ivoire,"CM, CDM",25,82,83,26000000.0,40000.0,168,65,Right,80,71,82,81,72,74
+A. Sanchez,Manchester United,Chile,"LW, LM",30,82,82,21000000.0,145000.0,169,62,Right,81,78,77,85,44,73
+Gelson Martins,Atlético Madrid,Portugal,RM,23,82,87,29500000.0,60000.0,173,72,Right,94,69,75,86,47,61
+S. Bergwijn,PSV,Netherlands,"RW, CAM, LW",21,82,87,29500000.0,23000.0,178,78,Right,89,75,76,85,40,73
+T. Meunier,Paris Saint Germain,Belgium,"RB, RM",27,82,82,20000000.0,88000.0,191,90,Right,79,75,77,75,78,84
+Savinho,Manchester City,Brazil,LW,20,82,87,45000000.0,115000.0,176,71,Left,88,72,77,84,30,53
+T. Ndombele,Tottenham Hotspur,France,"CAM, CM, CDM",24,82,87,46000000.0,95000.0,179,76,Right,71,72,81,88,69,72
+F. Dimarco,Inter,Italy,"LWB, LM, CB",25,82,85,37000000.0,82000.0,175,75,Left,79,71,80,79,74,71
+A. Isak,Newcastle United,Sweden,"ST, LW",23,81,86,39500000.0,110000.0,192,77,Right,83,81,72,84,39,72
+A. Sanchez,Inter,Chile,ST,34,81,81,12500000.0,95000.0,169,62,Right,71,83,80,85,48,66
+Nani,Orlando City,Portugal,"LW, LM",34,81,81,12000000.0,14000.0,177,70,Right,70,77,81,85,37,68
+E. Tapsoba,Bayer 04 Leverkusen,Burkina Faso,CB,24,81,85,33000000.0,49000.0,194,84,Right,75,54,65,70,82,79
+H. Lozano,PSV,Mexico,RW,27,81,81,27500000.0,27000.0,175,70,Right,93,76,72,82,41,61
+Gelson Martins,Sporting CP,Portugal,"RM, LM",22,81,88,25000000.0,20000.0,173,65,Right,94,70,73,86,44,60
+G. Kondogbia,Olympique de Marseille,Central African Republic,"CM, CDM",30,81,81,24500000.0,50000.0,188,76,Left,69,75,76,76,81,89
+K. Schmeichel,Anderlecht,Denmark,GK,36,81,81,2900000.0,17000.0,189,89,Right,10,10,10,10,10,10
+Moise Kean,Fiorentina,Italy,ST,24,81,85,37500000.0,57000.0,183,72,Right,84,76,58,76,40,75
+T. Alderweireld,Antwerp,Belgium,CB,34,81,81,8500000.0,37000.0,186,81,Right,54,61,74,67,83,79
+M. Uribe,Porto,Colombia,"CM, CDM",31,81,81,21000000.0,19000.0,183,77,Right,75,76,75,79,80,82
+Jony,Lazio,Spain,LM,27,80,80,15500000.0,56000.0,179,76,Left,87,70,79,80,52,68
+E. Lamela,Sevilla,Argentina,"RW, CAM",31,80,80,17500000.0,36000.0,181,79,Left,79,77,78,83,54,69
+Castello Lukeba,RB Leipzig,France,CB,21,80,87,40000000.0,41000.0,183,84,Left,70,43,68,73,80,73
+L. Bonucci,FC Union Berlin,Italy,CB,36,80,80,3800000.0,28000.0,190,85,Right,47,59,70,71,82,75
+Alex Berenguer,Athletic Club,Spain,"LM, RM",27,80,80,22500000.0,33000.0,175,73,Right,82,75,76,82,64,66
+R. Freuler,Atalanta,Switzerland,CM,29,80,80,20500000.0,58000.0,180,80,Right,69,71,77,78,75,73
+A. Wan-Bissaka,Manchester United,England,RB,25,80,83,25500000.0,100000.0,183,72,Right,83,50,68,77,77,71
+Y. Fofana,Monaco,France,"CDM, CM",24,80,84,27500000.0,46000.0,185,74,Right,69,67,74,77,78,79
+Guaita,Crystal Palace,Spain,GK,35,79,79,1900000.0,29000.0,190,80,Right,10,10,10,10,10,10
+A. Modeste,Borussia Dortmund,France,ST,34,79,79,8500000.0,53000.0,187,84,Right,69,78,63,70,35,79
+Munir,Sevilla,Morocco,"LW, RW, ST",25,79,80,21000000.0,33000.0,175,69,Left,79,78,75,82,35,66
+S. McTominay,Manchester United,Scotland,"CDM, CM",26,79,82,20500000.0,100000.0,193,88,Right,59,74,72,73,77,84
+Elliot Anderson,Nottingham Forest,England,CM,22,79,84,24500000.0,48000.0,179,71,Right,72,66,72,79,69,77
+Ander Herrera,Paris Saint Germain,Spain,"CM, CDM",31,79,79,14500000.0,78000.0,182,71,Right,65,70,77,79,78,75
+Noa Lang,PSV,Netherlands,LW,25,79,82,23000000.0,19000.0,179,69,Right,82,75,72,84,50,70
+Sidnei,Real Betis,Brazil,CB,30,79,79,14500000.0,26000.0,185,80,Right,69,57,63,64,77,82
+Mikkel Damsgaard,Brentford,Denmark,CM,24,79,82,24000000.0,66000.0,180,70,Right,81,69,71,78,61,65
+Yeremy Pino,Villarreal CF,Spain,LM,22,79,87,39500000.0,32000.0,172,65,Right,76,73,76,79,38,46
+T. Teuma,Stade de Reims,Malta,"CM, CAM, CDM",29,79,79,17000000.0,31000.0,176,73,Left,68,77,79,76,73,76
+Axel Witsel,Atlético Madrid,Belgium,CB,35,79,79,4600000.0,48000.0,186,81,Right,34,63,77,75,83,75
+D. Henderson,Nottingham Forest,England,GK,25,79,82,18000000.0,76000.0,188,85,Right,10,10,10,10,10,10
+A. Gouiri,Rennes,France,"ST, LM, LW",23,79,84,27000000.0,49000.0,181,83,Right,76,81,76,80,45,71
+N. Otamendi,Manchester City,Argentina,CB,32,79,79,11500000.0,105000.0,183,81,Right,54,57,61,58,80,78
+R. Soriano,Torino,Italy,"LM, CM, CAM",27,78,78,11000000.0,40000.0,182,76,Right,75,76,78,79,68,69
+L. Karius,Liverpool,Germany,GK,27,78,81,14000000.0,60000.0,189,87,Right,10,10,10,10,10,10
+Junior Messias,Genoa,Brazil,"RM, RW",32,78,78,11000000.0,59000.0,179,70,Left,82,73,73,81,49,60
+Dean Huijsen,AFC Bournemouth,Spain,CB,19,78,87,28500000.0,41000.0,197,87,Right,64,46,60,63,69,65
+G. Pizarro,Sevilla,Argentina,"CDM, CM",27,78,80,10000000.0,20000.0,186,74,Right,60,62,71,69,74,84
+R. Borre,Eintracht Frankfurt,Colombia,ST,26,78,79,17000000.0,33000.0,174,70,Right,77,77,74,79,45,76
+E. Giaccherini,Napoli,Italy,"LW, CM",32,78,78,8000000.0,70000.0,167,60,Right,78,70,76,82,62,62
+A. Bayındır,Fenerbahçe,Turkey,GK,24,78,82,16000000.0,39000.0,198,73,Right,10,10,10,10,10,10
+Brahim,Milan,Spain,CAM,22,78,86,31500000.0,110000.0,171,59,Right,78,69,76,82,30,50
+Pepe Reina,Lazio,Spain,GK,38,78,78,1600000.0,27000.0,188,92,Right,10,10,10,10,10,10
+Wendell,Bayer 04 Leverkusen,Brazil,LB,26,77,78,11500000.0,50000.0,178,72,Left,74,49,73,79,72,72
+Rafa Mir,Sevilla,Spain,ST,26,77,80,14000000.0,29000.0,191,86,Right,78,77,66,72,45,79
+A. Adli,Bayer 04 Leverkusen,France,"ST, LM",23,77,84,21500000.0,45000.0,174,73,Left,81,75,69,82,41,68
+Hugo Larsson,Eintracht Frankfurt,Sweden,CM,20,77,86,23000000.0,27000.0,187,74,Right,73,63,67,75,65,73
+A. Lafont,Fiorentina,France,GK,19,77,89,12000000.0,10000.0,193,82,Right,10,10,10,10,10,10
+A. Carroll,West Ham United,England,ST,29,77,77,9000000.0,80000.0,193,79,Left,47,78,61,68,44,80
+Reguilon,Sevilla,Spain,LB,22,77,85,11500000.0,90000.0,178,68,Left,78,50,71,74,75,69
+Filip Jorgensen,Chelsea,Denmark,GK,22,77,83,14000000.0,45000.0,192,85,Right,10,10,10,10,10,10
+Cordoba,Athletic Club,Spain,LW,23,77,83,16500000.0,23000.0,180,73,Left,83,71,71,80,64,69
+Gabriel Strefezza,Lecce,Brazil,"RW, ST",26,77,78,12500000.0,21000.0,168,63,Right,82,68,75,79,29,50
+P. Max,FC Augsburg,Germany,"LB, LWB, LM",25,77,80,10000000.0,23000.0,177,77,Left,81,52,77,75,70,72
+Jeffrey Gouweleeuw,FC Augsburg,Holland,CB,33,77,77,7000000.0,29000.0,188,83,Right,67,58,66,64,78,71
+Ainsley Maitland-Niles,Olympique Lyonnais,England,RB,27,77,78,11500000.0,42000.0,180,71,Right,76,61,71,73,71,72
+J. Doku,Manchester City,Belgium,"RM, RW",21,77,85,23500000.0,73000.0,173,77,Right,91,67,68,82,25,65
+J. dos Santos,LA Galaxy,Mexico,"CM, CDM",31,77,77,8500000.0,10000.0,172,73,Right,71,66,79,77,70,72
+Jonny,Celta de Vigo,Spain,"LB, RB",23,77,83,10000000.0,20000.0,175,70,Right,77,42,64,69,77,76
+Pablo Fornals,West Ham United,Spain,"LM, CAM",27,77,77,11000000.0,61000.0,178,67,Right,64,71,78,77,69,71
+D. Kohr,FSV Mainz 05,Germany,"CDM, CM",29,77,77,9000000.0,27000.0,183,80,Right,83,63,63,71,78,82
+Arthur Cabral,Fiorentina,Brazil,ST,24,77,83,17000000.0,47000.0,186,89,Right,73,77,63,73,31,78
+Sofiane Diop,OGC Nice,Morocco,LW,24,77,82,16000000.0,31000.0,175,65,Right,70,70,75,81,54,53
+Timo Werner,Tottenham Hotspur,Germany,LM,28,77,77,10500000.0,52000.0,180,76,Right,91,79,69,80,35,69
+S. Terodde,VfB Stuttgart,Germany,ST,29,77,77,9000000.0,30000.0,192,83,Right,70,78,54,65,30,77
+C. Bacca,Villarreal,Colombia,ST,33,77,77,6500000.0,34000.0,181,77,Right,68,75,64,74,33,66
+B. Badiashile,Monaco,France,CB,21,77,85,22000000.0,31000.0,194,75,Left,61,47,67,60,78,76
+Bruno,Getafe,Spain,CB,29,77,78,8500000.0,23000.0,185,86,Right,32,33,51,49,77,79
+F. Honorat,Borussia Mönchengladbach,France,"RM, LM",26,76,76,8000000.0,27000.0,180,70,Right,79,75,71,76,47,60
+K. Darlow,Newcastle United,England,GK,30,76,77,5500000.0,28000.0,190,88,Right,10,10,10,10,10,10
+F. Frei,FSV Mainz 05,Switzerland,"CM, CDM, CAM",28,76,76,7500000.0,30000.0,183,77,Right,66,73,76,72,70,73
+S. Zurkowski,Fiorentina,Poland,CM,24,76,81,11500000.0,40000.0,185,77,Right,82,73,73,77,71,80
+T. Gebre Selassie,Werder Bremen,Czech Republic,"RB, RM",33,76,76,3900000.0,25000.0,181,71,Right,66,51,70,75,76,72
+P. Hurtado,Vitória SC,Peru,"CAM, RM, ST",26,76,76,8500000.0,15000.0,176,72,Right,82,73,73,77,46,57
+A. Young,Everton,England,"LB, RB, LM",37,76,76,1700000.0,25000.0,175,65,Right,65,66,77,75,76,71
+R. Marin,Empoli,Romania,"CM, CDM",27,76,77,8500000.0,25000.0,178,75,Right,71,74,77,75,69,73
+M. Weiser,Bayer 04 Leverkusen,Germany,"RB, RM",26,76,77,8000000.0,47000.0,177,71,Right,70,62,74,82,72,68
+M. Batshuayi,Beşiktaş,Belgium,ST,27,76,76,8000000.0,88000.0,185,78,Right,73,77,59,76,33,69
+I. Hayden,Newcastle United,England,"CDM, CM, CB",26,76,79,9000000.0,34000.0,185,79,Right,58,60,63,70,75,78
+K. Strootman,Cagliari,Netherlands,"CM, CDM",31,76,76,6000000.0,35000.0,186,78,Left,50,75,74,74,75,77
+J. Sanchez,Ajax,Mexico,RB,24,76,82,11000000.0,13000.0,175,71,Right,92,50,64,75,71,81
+V. Rosier,Beşiktaş,France,RB,26,76,77,8000000.0,23000.0,175,75,Right,84,52,65,75,72,76
+R. Fraser,Newcastle United,Scotland,"RM, LM",28,76,76,7500000.0,74000.0,163,70,Right,83,69,71,80,49,61
+C. Lukeba,Olympique Lyonnais,France,CB,19,76,86,15000000.0,25000.0,184,73,Left,73,43,67,70,77,74
+D. Abraham,Eintracht Frankfurt,Argentina,CB,33,76,76,3600000.0,25000.0,189,82,Right,74,55,59,52,77,77
+O. Mangala,VfB Stuttgart,Belgium,"CM, CDM",23,76,81,11500000.0,23000.0,178,82,Right,70,53,71,83,71,71
+M. Samatta,Aston Villa,Tanzania,ST,27,76,77,9000000.0,55000.0,183,80,Right,79,76,66,72,32,73
+Borja Mayoral,Real Madrid,Spain,ST,23,76,82,12000000.0,105000.0,182,74,Right,67,76,69,77,38,68
+A. Petagna,Monza,Italy,ST,27,76,77,9000000.0,48000.0,190,85,Left,59,75,68,75,34,81
+R. Gagliardini,Inter,Italy,"CDM, CM",28,76,76,6500000.0,50000.0,188,77,Right,53,63,71,73,76,74
+Koo Ja Cheol,FC Augsburg,Korea Republic,"CAM, CM, RM",29,76,76,7500000.0,30000.0,183,79,Right,72,76,73,78,59,65
+Y. Ravet,SC Freiburg,France,RM,27,76,76,8000000.0,30000.0,178,74,Right,85,72,74,72,37,67
+Christopher Trimmel,1. FC Union Berlin,Austria,RB,37,75,75,1200000.0,23000.0,189,82,Right,69,65,74,68,74,79
+Lorenz Assignon,Stade Rennais FC,France,RB,24,75,80,8000000.0,30000.0,181,77,Right,74,51,63,72,70,67
+G. Nkoudou,Beşiktaş,France,"LM, LW",27,75,75,6000000.0,43000.0,172,75,Right,93,67,68,79,34,58
+Pedro Nuno,Moreirense,Portugal,"LW, CAM, CM",25,75,78,7500000.0,15000.0,176,68,Right,68,74,76,77,38,59
+Copete,Mallorca,Spain,CB,23,75,83,11500000.0,19000.0,192,73,Left,57,33,54,57,77,70
+Dara O'Shea,Ipswich Town,Republic of Ireland,CB,25,75,78,6500000.0,44000.0,188,74,Right,67,33,55,58,75,76
+J. Ferri,Olympique Lyonnais,France,CM,26,75,75,7000000.0,50000.0,172,74,Right,65,67,73,73,66,74
+Ethan Nwaneri,Arsenal,England,CAM,17,75,87,13000000.0,49000.0,176,70,Left,68,62,62,67,39,50
+Tom Krauß,VfL Bochum 1848,Germany,CDM,23,75,80,8000000.0,21000.0,183,76,Right,70,66,66,73,72,75
+N. Spolli,Genoa,Argentina,CB,35,75,75,1600000.0,10000.0,193,90,Right,40,39,34,45,77,73
+Jordan Lotomba,Feyenoord,Switzerland,RB,26,75,77,6500000.0,17000.0,178,71,Right,78,48,65,72,71,68
+L. Junior,Mallorca,Côte d'Ivoire,"LM, RM, ST",28,75,75,6500000.0,25000.0,180,79,Right,88,71,63,76,34,73
+Pere Pons,Deportivo Alavés,Spain,"CM, CDM, RM",28,75,75,5500000.0,23000.0,177,70,Right,62,62,72,74,69,70
+M. Diame,Newcastle United,Senegal,"CM, CAM",31,75,75,5500000.0,40000.0,184,86,Right,69,71,68,74,75,80
+U. Racic,Sassuolo,Serbia,"CM, CDM",25,75,79,8000000.0,16000.0,193,81,Right,64,73,74,73,76,81
+O. Toivonen,Toulouse,Sweden,"CAM, ST",30,75,75,6500000.0,30000.0,192,78,Right,53,77,74,73,42,74
+S. Fofana,Udinese,Côte d'Ivoire,"CM, CDM",24,75,82,9000000.0,15000.0,184,77,Right,72,67,69,76,68,75
+M. Morozyuk,Dynamo Kyiv,Ukraine,"RB, RM, LB, LM",30,75,75,4800000.0,2000.0,176,71,Right,71,59,75,65,73,50
+A. Claude-Maurice,Nice,France,"CM, LW",25,75,77,7000000.0,35000.0,175,64,Right,80,72,72,80,69,66
+M. Pjaca,Empoli,Croatia,"CF, ST",27,75,76,6500000.0,81000.0,186,83,Right,77,69,74,81,41,63
+A. Bizzarri,Udinese,Argentina,GK,39,75,75,450000.0,10000.0,193,89,Right,10,10,10,10,10,10
+Jauregizar,Athletic Club,Spain,CM,21,75,85,12500000.0,21000.0,177,74,Right,60,55,57,62,56,57
+M. Zajc,Fenerbahçe,Slovenia,"CM, CAM",29,75,75,5500000.0,31000.0,178,72,Right,66,75,76,75,65,65
+Vincent Sierro,Toulouse FC,Switzerland,CM,29,75,75,5500000.0,23000.0,185,79,Right,61,67,75,72,70,75
+Arne Maier,FC Augsburg,Germany,CM,25,75,77,7000000.0,24000.0,187,84,Right,62,62,74,75,69,74
+G. Tutino,Hellas Verona,Italy,"CF, RW, ST",22,75,83,10000000.0,47000.0,177,76,Right,77,75,71,75,35,66
+Munir,Deportivo Alavés,Spain,"RW, ST, LW, CF",21,75,82,9500000.0,20000.0,175,69,Left,81,74,62,80,27,56
+D. Bradaric,Lille,Croatia,LB,21,75,81,8500000.0,20000.0,178,69,Left,79,55,68,75,70,68
+Lincoln,Fenerbahçe,Brazil,"CAM, CM",23,75,82,11500000.0,46000.0,178,73,Left,78,70,77,78,45,65
+Albert Sambi Lokonga,Sevilla FC,Belgium,CM,25,75,79,8000000.0,72000.0,183,73,Right,64,58,74,76,68,71
+Gianluca Caprari,Monza,Italy,CAM,31,75,75,5500000.0,28000.0,176,72,Right,77,74,76,80,36,49
+Merlin Rohl,SC Freiburg,Germany,CM,22,75,84,12500000.0,19000.0,192,79,Right,81,65,69,77,62,72
+Vladimir Coufal,West Ham United,Czechia,RB,32,75,75,4099999.0,67000.0,175,76,Right,65,56,72,73,77,80
+Taylor Harwood-Bellis,Southampton,England,CB,22,74,81,8000000.0,37000.0,188,73,Right,66,36,61,67,76,76
+Tiago Tomas,VfL Wolfsburg,Portugal,"ST, RW",21,74,82,9500000.0,29000.0,180,78,Right,88,70,58,77,39,69
+G. Nkoudou,Tottenham Hotspur,France,LM,24,74,79,7500000.0,54000.0,175,72,Right,88,67,68,78,34,58
+D. Vukovic,Genk,Australia,GK,35,74,74,475000.0,7000.0,187,95,Right,10,10,10,10,10,10
+P. Herrmann,Borussia Mönchengladbach,Germany,"RM, RW",30,74,74,4100000.0,24000.0,179,71,Right,70,72,73,75,33,60
+B. Martins Indi,AZ Alkmaar,Netherlands,CB,31,74,74,2900000.0,9000.0,185,76,Left,37,42,58,58,76,78
+O. Colley,Genk,Gambia,CB,24,74,80,6500000.0,15000.0,190,88,Left,72,31,52,50,71,83
+N. Radonjic,Olympique de Marseille,Serbia,"LW, RW",24,74,79,6500000.0,30000.0,185,76,Right,82,71,71,75,30,60
+Kike Garcia,Deportivo Alavés,Spain,ST,33,74,74,2700000.0,23000.0,186,79,Right,54,75,64,72,44,72
+F. Niederlechner,FC Augsburg,Germany,ST,31,74,74,3600000.0,26000.0,187,86,Right,68,75,63,73,35,78
+G. Kerk,Antwerp,Netherlands,"RW, ST",27,74,74,4500000.0,27000.0,183,80,Right,91,71,64,74,36,72
+Chema,Nottingham Forest,Spain,CB,27,74,77,6000000.0,34000.0,189,80,Left,64,59,57,60,73,73
+Ruben Pardo,Real Sociedad,Spain,"CM, CAM, CDM",26,74,76,6500000.0,23000.0,181,69,Right,61,68,74,72,62,55
+T. Douvikas,Celta de Vigo,Greece,ST,23,74,81,8500000.0,19000.0,186,76,Right,81,72,62,73,34,73
+M. Kean,Everton,Italy,ST,20,74,83,9500000.0,48000.0,182,72,Right,78,72,50,77,30,66
+S. Ucan,Beşiktaş,Turkey,"CM, CDM, CAM",29,74,74,4100000.0,23000.0,182,80,Right,57,70,75,75,66,65
+D. Amartey,Beşiktaş,Ghana,CB,28,74,74,3600000.0,21000.0,186,79,Right,60,55,62,68,75,73
+E. Pieters,Burnley,Netherlands,"LB, LM",32,74,74,2900000.0,27000.0,183,87,Left,63,39,68,69,74,78
+V. Wanyama,CF Montréal,Kenya,"CDM, CM",32,74,74,2800000.0,8000.0,188,79,Right,50,63,65,70,71,88
+T. Davies,Sheffield United,England,"CM, CDM",25,74,76,5500000.0,29000.0,180,70,Right,62,64,73,74,69,69
+Marius Muller,VfL Wolfsburg,Germany,GK,31,74,74,2800000.0,23000.0,192,93,Right,10,10,10,10,10,10
+A. Ragusa,Sassuolo,Italy,LW,27,74,74,6000000.0,50000.0,183,78,Right,88,67,67,77,33,66
+G. Sio,Gençlerbirliği,Côte d'Ivoire,"ST, RM",31,74,74,3600000.0,18000.0,180,80,Left,77,75,71,73,29,78
+M. Gradel,Gaziantep F.K.,Côte d'Ivoire,"LM, LW",35,74,74,1700000.0,10000.0,175,70,Right,74,74,71,77,42,61
+A. Zeneli,Stade de Reims,Kosovo,"LM, LW",27,73,73,3200000.0,19000.0,176,72,Right,74,70,72,76,35,56
+J. St. Juste,Feyenoord,Netherlands,"CB, RB",21,73,78,4500000.0,8000.0,186,71,Right,82,56,59,70,72,74
+M. Crepeau,Los Angeles FC,Canada,GK,29,73,75,2500000.0,6000.0,180,88,Right,10,10,10,10,10,10
+E. Derdiyok,Galatasaray,Switzerland,ST,30,73,73,3900000.0,40000.0,191,92,Right,38,76,66,66,32,72
+Frank Onyeka,FC Augsburg,Nigeria,CM,26,73,74,3600000.0,48000.0,183,70,Right,77,63,66,73,72,76
+L. Lerager,Genoa,Denmark,CM,26,73,74,3600000.0,14000.0,188,85,Right,58,67,69,68,70,72
+Nicolas Pallois,FC Nantes,France,CB,37,73,73,550000.0,14000.0,189,89,Left,34,54,58,57,73,78
+A. Omur,Trabzonspor,Turkey,"CM, RW, CAM",24,73,77,4300000.0,32000.0,168,70,Left,84,67,72,81,53,57
+D. Luckassen,PSV,Netherlands,"CB, CDM",23,73,77,4700000.0,11000.0,186,78,Right,76,58,65,67,70,78
+Jorge Saenz,CD Leganés,Spain,CB,28,73,75,3200000.0,28000.0,192,75,Right,61,41,56,62,72,77
+Dennis Geiger,TSG 1899 Hoffenheim,Germany,CDM,26,73,75,3400000.0,25000.0,173,67,Right,45,53,76,79,64,58
+J. Alonso,Celta de Vigo,Paraguay,"CB, LB",25,73,79,4600000.0,15000.0,184,82,Left,61,43,57,58,72,77
+Javi Lopez,Real Sociedad,Spain,LB,22,73,80,6000000.0,23000.0,184,80,Left,77,29,54,59,67,68
+N. Murru,Torino,Italy,LB,25,73,78,4200000.0,14000.0,180,74,Left,71,40,61,69,71,67
+Gabriele Zappa,Cagliari,Italy,RB,24,73,76,3800000.0,13000.0,183,78,Right,75,55,61,67,65,70
+Milos Veljkovic,SV Werder Bremen,Serbia,CB,29,73,73,2600000.0,22000.0,188,83,Right,34,33,53,59,74,74
+B. Dejaegere,Gent,Belgium,"CM, RM, CDM",28,73,73,4000000.0,18000.0,174,72,Right,75,61,71,77,66,73
+S. Grandsir,Brest,France,"RM, LM",22,73,82,6000000.0,25000.0,170,65,Right,87,61,70,76,44,63
+A. Ujah,FC Union Berlin,Nigeria,ST,28,73,73,4100000.0,33000.0,183,81,Right,69,72,55,69,33,72
+C. Robinson,Sheffield United,Republic of Ireland,"ST, LM",24,73,78,5500000.0,26000.0,178,75,Right,85,72,65,74,34,60
+Caue,Belenenses,Brazil,CDM,31,72,72,1600000.0,6000.0,186,84,Right,72,62,60,64,71,82
+D. Doekhi,Vitesse,Netherlands,CB,23,72,79,4400000.0,10000.0,190,83,Right,54,42,57,63,71,79
+F. Ballo-Toure,Milan,Senegal,LB,25,72,76,3000000.0,32000.0,182,70,Left,85,51,67,71,67,72
+Denis,Gil Vicente,Brazil,GK,33,72,72,750000.0,6000.0,188,86,Right,10,10,10,10,10,10
+C. Arcus,Vitesse,Haiti,RB,27,72,73,2500000.0,9000.0,176,73,Right,75,43,65,66,67,74
+Maurides,Belenenses,Brazil,ST,23,72,78,4300000.0,6000.0,188,77,Left,58,74,52,68,32,73
+A. Tinnerholm,New York City,Sweden,"RB, RWB",31,72,72,1700000.0,6000.0,176,75,Right,71,52,66,69,68,75
+R. Durmisi,Lazio,Denmark,"LB, LWB, LM",27,72,72,2300000.0,32000.0,168,67,Left,75,61,70,72,69,65
+F. Benkovic,Trabzonspor,Croatia,CB,25,72,75,2800000.0,11000.0,194,91,Right,60,44,54,55,71,79
+Rafael Lopes,Boavista,Portugal,ST,26,72,73,3700000.0,8000.0,185,79,Right,60,74,53,65,34,78
+S. Klaiber,FC Utrecht,Suriname,RWB,27,72,72,2300000.0,11000.0,184,76,Right,79,63,68,65,68,77
+Ola Solbakken,Empoli,Norway,RM,26,72,73,2800000.0,24000.0,189,82,Left,81,69,66,73,37,69
+M. Le Marchand,Strasbourg,France,CB,32,72,72,1500000.0,17000.0,185,77,Left,60,39,68,65,73,68
+Ruben Lameiras,Chaves,Portugal,RW,28,72,72,2400000.0,8000.0,176,67,Left,76,69,69,76,42,62
+M. Liendl,FC Twente,Austria,"CAM, CDM, CM",31,72,72,2700000.0,9000.0,175,74,Left,59,71,73,71,48,60
+N. Dussenne,Standard Liège,Belgium,CB,30,72,72,1900000.0,11000.0,192,85,Right,35,34,52,52,74,74
+J. Tagueu,Marítimo,Cameroon,"ST, LW",28,72,72,2400000.0,10000.0,178,70,Left,70,70,58,70,29,70
+C. Okoli,Frosinone,Italy,CB,21,72,82,4900000.0,20000.0,191,91,Right,54,30,46,54,72,78
+B. Kapustka,SC Freiburg,Poland,"LM, CM",20,72,83,5500000.0,15000.0,179,67,Right,81,62,70,72,49,55
+Bebeto,Marítimo,Brazil,RB,29,72,72,2600000.0,8000.0,174,62,Right,76,45,63,70,69,63
+F. Mattiello,Cagliari,Italy,"RM, LM",23,72,77,4200000.0,29000.0,184,70,Left,75,64,71,74,69,65
+Jese,Ankaragücü,Spain,"LW, ST, RW",29,72,72,2300000.0,13000.0,178,80,Right,75,71,69,73,25,69
+A. Jung,Werder Bremen,Germany,"LWB, CB",31,72,72,1700000.0,16000.0,185,81,Left,63,62,66,66,73,77
+J. Butez,Royal Excel Mouscron,France,GK,24,72,77,3100000.0,6000.0,191,83,Right,10,10,10,10,10,10
+J. Morris,Seattle Sounders,United States,"LM, ST, RM",28,72,72,2400000.0,7000.0,183,85,Right,88,70,66,69,38,81
+D. Biraschi,Genoa,Italy,"CB, RB, RM",26,72,74,2600000.0,12000.0,182,72,Right,58,35,56,62,75,64
+Ignatius Ganago,New England Revolution,Cameroon,ST,25,72,74,3000000.0,19000.0,176,78,Right,80,71,61,74,34,65
+E. Mor,Fatih Karagümrük,Turkey,"RM, ST, RW",23,72,78,3700000.0,14000.0,169,60,Left,85,67,62,80,31,47
+M. Fares,Genoa,Algeria,"LM, LB, LW",25,72,75,3100000.0,12000.0,183,72,Left,76,62,67,75,67,68
+Jeroen Zoet,AZ Alkmaar,Holland,GK,33,71,71,600000.0,5000.0,188,87,Right,10,10,10,10,10,10
+Pedro Malheiro,Boavista,Portugal,"RB, RWB",22,71,80,4000000.0,8000.0,179,69,Right,75,58,62,72,66,59
+M. Martin,Stade de Reims,France,"CAM, CM",30,71,71,2200000.0,10000.0,171,68,Right,64,65,72,71,51,51
+A. Kadri,Kortrijk,Algeria,"CAM, CM",23,71,78,3800000.0,9000.0,170,69,Right,72,66,67,77,61,61
+Matthias Braunoder,Como,Austria,CM,22,71,80,4200000.0,19000.0,174,67,Right,80,58,71,76,65,62
+A. Hrustic,Hellas Verona,Australia,"CM, RM, CF",26,71,72,2200000.0,17000.0,180,78,Left,67,69,73,72,57,67
+Ricardo Mangas,Boavista,Portugal,"LWB, LB, CB",24,71,78,3600000.0,8000.0,179,66,Left,71,46,61,69,66,74
+Cyriac,Sivasspor,Côte d'Ivoire,ST,26,71,72,2800000.0,10000.0,172,75,Right,85,70,62,72,27,61
+Z. Debast,Anderlecht,Belgium,CB,19,71,83,4200000.0,8000.0,189,76,Right,66,53,68,68,70,73
+R. Nteka,Rayo Vallecano,France,"ST, CAM",25,71,76,2800000.0,13000.0,189,75,Left,72,70,64,71,54,83
+F. Marchetti,Genoa,Italy,GK,37,71,71,210000.0,5000.0,188,83,Left,10,10,10,10,10,10
+J. Cullen,West Ham United,Republic of Ireland,"CM, CDM",24,71,77,2900000.0,21000.0,175,70,Right,69,54,69,71,65,64
+M. Pantovic,FC Union Berlin,Serbia,"CAM, CM",25,71,73,2400000.0,18000.0,186,77,Right,76,69,68,73,40,61
+K. Davis,Udinese,England,ST,25,71,75,2600000.0,12000.0,191,82,Left,68,69,54,71,43,83
+C. Adjapong,Sassuolo,Italy,"LM, RM, RB",21,71,81,3800000.0,22000.0,180,74,Right,68,51,65,75,71,59
+Sam Surridge,Nashville SC,England,ST,26,71,74,2500000.0,8000.0,191,77,Right,64,71,56,68,28,70
+Tomas Ribeiro,Belenenses,Portugal,CB,22,71,84,4300000.0,4000.0,185,77,Left,67,34,49,50,71,74
+Salvador Agra,Tondela,Portugal,"LW, RW",29,71,71,1800000.0,6000.0,166,62,Right,88,66,70,71,34,67
+M. Roerslev,Brentford,Denmark,"RWB, RB",24,71,75,2500000.0,24000.0,184,67,Right,69,45,65,67,65,69
+Julien Duranville,Borussia Dortmund,Belgium,LM,18,71,87,4800000.0,20000.0,170,67,Right,84,60,58,75,23,48
+A. Bedoya,Philadelphia Union,United States,"CM, CDM",36,71,71,600000.0,4000.0,178,73,Right,60,65,69,71,65,72
+D. St. Clair,Minnesota United,Canada,GK,26,71,76,2200000.0,4000.0,191,75,Left,10,10,10,10,10,10
+Z. Stieber,DC United,Hungary,"RM, LM",29,71,71,2300000.0,6000.0,175,67,Left,71,66,70,73,36,55
+M. Mitrovic,Club Brugge,Croatia,CB,27,71,74,2100000.0,14000.0,187,85,Right,45,50,57,59,73,73
+T. Buffel,Zulte-Waregem,Belgium,"RM, LM",37,71,71,650000.0,8000.0,176,70,Right,58,68,72,70,46,62
+Pedro Henrique,Sivasspor,Brazil,"LM, RM",31,71,71,1600000.0,12000.0,181,76,Left,80,68,67,73,31,61
+J. Bostock,Lens,Trinidad and Tobago,"CM, CDM",25,71,76,3100000.0,7000.0,188,84,Left,67,71,70,69,56,76
+Theo Bair,AJ Auxerre,Canada,ST,25,71,74,2600000.0,15000.0,191,96,Right,73,67,50,64,28,79
+O. Deschacht,Anderlecht,Belgium,"CB, LB",36,71,71,325000.0,10000.0,183,81,Left,48,45,60,54,73,68
+A. Baby,Sporting Charleroi,Senegal,LM,29,71,71,2300000.0,10000.0,183,80,Left,80,67,65,70,55,79
+C. Mepham,AFC Bournemouth,Wales,CB,25,71,74,2200000.0,24000.0,190,75,Right,56,37,55,60,72,72
+S. Iling-Junior,Juventus,England,"LM, LW",19,71,85,4400000.0,28000.0,182,75,Left,79,60,69,75,37,55
+Rafael Costa,Boavista,Brazil,"CM, CAM",28,71,71,2400000.0,5000.0,183,77,Left,58,70,71,71,49,67
+T. Chong,Luton Town,Netherlands,"RM, CM, CF",23,71,76,2800000.0,24000.0,185,75,Left,81,63,67,71,50,63
+Hugo Sotelo,RC Celta,Spain,CM,20,71,80,4099999.0,15000.0,180,75,Right,65,59,59,65,44,54
+A. Pesic,Fatih Karagümrük,Serbia,ST,29,71,71,1900000.0,11000.0,190,87,Right,66,70,62,66,45,77
+M. Dupe,Nantes,France,GK,25,70,72,1500000.0,10000.0,188,88,Right,10,10,10,10,10,10
+A. Leya Iseka,Toulouse,Belgium,ST,22,70,76,2600000.0,5000.0,183,82,Right,81,71,60,69,27,71
+D. Avdijaj,Trabzonspor,Kosovo,"LM, CAM, ST",22,70,76,2400000.0,14000.0,172,70,Right,74,72,66,75,24,56
+T. Kunimoto,Casa Pia,Japan,"CM, LM, ST",24,70,77,3200000.0,3000.0,174,70,Left,81,65,70,76,45,70
+Alexander Schwolow,1. FC Union Berlin,Germany,GK,32,70,70,800000.0,15000.0,190,84,Right,10,10,10,10,10,10
+Andres Martin,Rayo Vallecano,Spain,"ST, RM, CAM",22,70,79,3600000.0,11000.0,170,66,Left,79,70,65,70,27,65
+Nuno Santos,Paços de Ferreira,Portugal,CM,22,70,80,3600000.0,7000.0,179,73,Right,80,59,67,72,65,66
+I. Seck,Zulte-Waregem,Senegal,"CDM, CM",31,70,70,1100000.0,8000.0,195,87,Left,34,46,56,56,72,83
+G. Vural,Gaziantep F.K.,Turkey,"CM, RM",32,70,70,1300000.0,9000.0,177,65,Left,79,68,69,74,64,66
+Jorge Fernandes,Tondela,Portugal,CB,21,70,78,2300000.0,3000.0,193,83,Right,44,34,42,53,70,74
+Franquesa,CD Leganés,Spain,LB,27,70,70,1500000.0,25000.0,174,70,Left,77,52,60,66,62,66
+J. Ebobisse,Portland Timbers,United States,"ST, LM, RM",23,70,78,3600000.0,5000.0,183,79,Left,86,64,63,69,34,77
+P. Ruiz,Real Salt Lake,Argentina,"CDM, CM",24,70,76,2300000.0,4000.0,172,68,Left,66,59,66,67,68,63
+Jack Taylor,Ipswich Town,Republic of Ireland,CDM,26,70,75,2100000.0,35000.0,185,70,Right,72,65,64,67,64,71
+S. Coopman,Zulte-Waregem,Belgium,"CAM, CM, RM",22,70,77,2500000.0,10000.0,183,70,Right,58,60,68,72,26,45
+M. Rodriguez,DC United,Chile,"LW, CAM",27,70,70,1700000.0,6000.0,170,68,Right,83,62,67,72,47,58
+R. Descamps,Nantes,France,GK,27,70,72,1500000.0,10000.0,196,82,Left,10,10,10,10,10,10
+Joao Pedro,Tondela,Portugal,"CM, CDM",28,70,70,1600000.0,5000.0,177,69,Right,67,68,66,69,66,68
+L. Blessing,Toronto,Ghana,"CM, CDM, RM",26,70,70,1700000.0,5000.0,170,64,Right,86,61,64,75,66,60
+M. Gabbia,Milan,Italy,CB,22,70,79,3300000.0,22000.0,185,78,Right,52,33,47,56,74,71
+S. Dembele,AFC Bournemouth,Scotland,"ST, LW",25,69,72,1900000.0,22000.0,173,67,Right,89,67,62,74,32,55
+M. Azira,CF Montréal,Uganda,"CDM, CM",30,69,69,775000.0,4000.0,178,73,Right,61,53,62,63,65,74
+M. Pellegrino,Milan,Argentina,CB,20,69,80,2900000.0,16000.0,180,80,Right,64,39,52,52,70,73
+R. Leal,Nashville SC,Costa Rica,"CAM, CM, LM",26,69,70,1600000.0,4000.0,169,66,Right,71,65,68,73,44,52
+R. Zekhnini,FC Twente,Norway,"LW, RW",21,69,76,1500000.0,18000.0,179,63,Right,90,61,57,72,33,48
+F. Ozturk,Akhisar Belediyespor,Turkey,GK,31,69,69,650000.0,7000.0,191,86,Right,10,10,10,10,10,10
+G. Hendrickx,Sporting Charleroi,Belgium,"CDM, CM",25,69,74,1900000.0,7000.0,175,68,Right,63,58,68,65,66,69
+A. Donis,Stade de Reims,Greece,"ST, RM",24,69,72,1900000.0,11000.0,178,77,Right,81,68,57,73,24,61
+Carlens Arcus,Angers SCO,Haiti,RB,28,69,69,1300000.0,13000.0,180,73,Right,75,43,63,64,61,73
+H. ter Avest,Udinese,Netherlands,"RM, RB",23,69,77,3100000.0,7000.0,182,78,Right,69,48,65,70,65,69
+D. Huseinbasic,FC Köln,Germany,"CM, CDM",21,69,80,3100000.0,9000.0,184,76,Right,65,62,62,69,61,71
+Robert Wagner,FC St. Pauli,Germany,CM,21,69,78,3000000.0,14000.0,181,80,Right,63,45,66,71,62,72
+V. Sarı,Kasımpaşa,Turkey,"CB, RB",30,69,69,850000.0,7000.0,184,76,Right,64,54,59,66,68,74
+Brad Guzan,Atlanta United,United States,GK,40,69,69,150000.0,2000.0,193,94,Left,10,10,10,10,10,10
+Daniel dos Anjos,Tondela,Brazil,ST,25,69,74,2100000.0,4000.0,183,73,Right,65,70,50,67,22,62
+M. Bakker,Paris Saint Germain,Netherlands,LB,20,69,80,2900000.0,19000.0,185,74,Left,76,39,59,65,68,71
+A. Cossu,Cagliari,Italy,"LW, CF",37,69,69,275000.0,20000.0,170,64,Right,55,64,75,73,29,45
+Brahim,Manchester City,Spain,"LW, RW, CAM",18,69,86,2200000.0,20000.0,170,68,Right,74,65,61,76,29,45
+I. Parlak,Ankaragücü,Turkey,"ST, RM, LM",32,69,69,850000.0,11000.0,181,74,Right,67,69,64,65,27,66
+Wagner,Tondela,Brazil,"LW, RW",30,69,69,1000000.0,5000.0,173,70,Left,82,65,62,70,30,63
+Pedro Amaral,Rio Ave,Portugal,LB,24,69,73,1900000.0,4000.0,178,72,Left,73,46,55,67,68,64
+L. Mothiba,Strasbourg,South Africa,"ST, RM",27,69,70,1600000.0,12000.0,182,78,Right,63,70,60,69,27,65
+A. Tarek,New York RB,Egypt,"CB, LB",28,69,69,1200000.0,4000.0,191,88,Left,62,39,46,62,69,77
+E. Bohinen,CSKA Moskva,Norway,CM,22,69,79,3100000.0,16000.0,189,81,Left,67,60,67,70,66,69
+Auro,Toronto,Brazil,"RB, RM, LB",24,69,73,1900000.0,3000.0,168,61,Right,73,51,65,72,64,62
+K. Denkey,Cercle Brugge,Togo,ST,22,69,76,2900000.0,7000.0,181,81,Right,69,71,52,68,28,70
+Andres Herrera,Columbus Crew,Argentina,RB,26,69,70,1700000.0,12000.0,178,75,Right,85,67,63,72,68,70
+E. Williamson,Portland Timbers,United States,"CDM, CM",26,69,71,1500000.0,4000.0,175,70,Right,72,57,67,71,64,70
+M. Dreyer,Lorient,France,GK,32,69,69,700000.0,7000.0,188,81,Right,10,10,10,10,10,10
+L. Abubakar,Columbus Crew,Ghana,CB,23,69,75,1200000.0,4000.0,185,84,Right,62,32,52,46,67,77
+Alex,Vitória de Setúbal,Portugal,"LW, RW",26,69,70,1200000.0,4000.0,176,68,Left,73,64,69,72,28,48
+Helder Barbosa,Hatayspor,Portugal,"LM, RM",33,69,69,875000.0,7000.0,172,67,Left,75,67,65,73,42,63
+Tiago Galvao,Chaves,Brazil,CM,27,68,68,925000.0,6000.0,185,78,Right,59,56,69,68,44,59
+V. Gheorghe,Ümraniyespor,Romania,"LW, RW, LM",25,68,71,1600000.0,7000.0,175,65,Right,87,66,65,68,43,66
+A. Onana,Lille,Belgium,"CDM, CM",19,68,83,2700000.0,6000.0,195,76,Right,71,53,61,66,66,74
+N. Phillips,Liverpool,England,CB,23,68,75,2200000.0,22000.0,190,84,Right,51,29,49,44,69,72
+Y. Begraoui,Toulouse,France,"ST, RM, LM",21,68,79,2700000.0,8000.0,178,70,Right,75,64,58,71,21,61
+J. Van Cleemput,Mechelen,Belgium,RB,23,68,73,1700000.0,5000.0,183,73,Right,69,31,63,63,64,71
+A. Issah,Chaves,Ghana,"LW, RW",24,68,74,1900000.0,4000.0,173,69,Right,88,69,51,72,27,66
+Stijn van Gassel,NEC Nijmegen,Holland,GK,28,68,70,1100000.0,5000.0,186,81,Left,10,10,10,10,10,10
+Sontje Hansen,NEC Nijmegen,Holland,RM,22,68,76,2700000.0,8000.0,173,69,Right,85,62,61,71,29,57
+J. Mutch,Vancouver Whitecaps,England,"CM, CAM",26,68,69,1000000.0,4000.0,184,81,Right,63,66,69,67,61,67
+Diego Medeiros,Paços de Ferreira,Brazil,"LW, RW",24,68,72,1200000.0,7000.0,187,75,Right,77,63,63,69,34,65
+O. De Wolf,AS Eupen,Belgium,GK,23,68,74,1500000.0,3000.0,190,83,Left,10,10,10,10,10,10
+J. Drost,FC Groningen,Netherlands,"CAM, RM",25,68,71,1100000.0,4000.0,175,75,Left,74,63,66,69,47,67
+A. Poungouras,Sivasspor,Greece,CB,27,68,69,1200000.0,7000.0,187,77,Right,63,41,47,49,69,70
+M. Azarkan,FC Utrecht,Netherlands,RW,21,68,77,2700000.0,6000.0,171,67,Left,82,59,57,76,23,54
+I. Ezekiel,Kortrijk,Nigeria,"ST, RM",25,68,71,1100000.0,7000.0,178,70,Right,82,66,61,70,31,59
+Benedikt Pichler,Holstein Kiel,Austria,ST,27,68,69,1400000.0,18000.0,188,88,Right,76,68,63,65,33,69
+E. Acolatse,Sint-Truiden,Netherlands,"LM, RM, ST",23,68,72,1200000.0,5000.0,180,80,Right,81,66,63,69,26,62
+P. Gladon,Heracles Almelo,Netherlands,ST,25,68,70,1100000.0,8000.0,188,83,Right,55,67,52,60,30,68
+J. Delaplace,Lorient,France,"RB, CM",34,68,68,450000.0,11000.0,168,67,Right,55,52,66,66,66,71
+D. Burgzorg,Heracles Almelo,Netherlands,LM,22,68,73,1900000.0,3000.0,186,76,Right,84,61,57,70,36,66
+D. Romney,LA Galaxy,United States,"CB, LB, RB",26,68,70,950000.0,3000.0,188,79,Left,61,32,57,60,66,74
+S. El Karouani,NEC,Morocco,LB,21,68,77,2600000.0,3000.0,178,74,Left,79,42,61,66,62,66
+N. Blom,Saint Louis City,South Africa,"CDM, CM",23,68,74,1800000.0,3000.0,173,67,Right,77,28,57,65,70,64
+Pablo Mari,NAC Breda,Spain,CB,23,68,76,1100000.0,6000.0,191,87,Left,49,40,46,47,67,73
+R. Alm,Saint Louis City,Sweden,"RM, RW, LW",27,68,68,1300000.0,4000.0,174,70,Right,83,62,62,69,38,62
+A. Pelmard,Nice,France,"CB, LB",20,68,79,2500000.0,9000.0,180,69,Right,71,33,56,65,68,69
+Max Balard,NAC Breda,Australia,CM,24,68,73,1800000.0,6000.0,178,68,Right,63,53,63,67,58,69
+Fabiano Souza,Sporting Braga,Brazil,"RM, RB",22,68,78,2700000.0,5000.0,170,68,Right,81,49,63,68,63,68
+Bruno Lourenco,Boavista,Portugal,"RW, LW, ST",25,68,71,1600000.0,7000.0,179,67,Left,66,61,71,70,46,62
+E. Juarez,Vancouver Whitecaps,Mexico,"CM, RB",30,68,68,825000.0,4000.0,180,76,Right,74,55,68,66,65,74
+B. Kumordzi,Kortrijk,Ghana,CB,33,68,68,375000.0,6000.0,187,79,Right,40,63,64,63,69,66
+R. Marchizza,Frosinone,Italy,LB,25,68,72,1600000.0,5000.0,186,80,Left,57,30,57,64,69,65
+D. Irandust,FC Groningen,Sweden,"CAM, CM",24,68,72,1700000.0,4000.0,185,73,Left,74,60,65,70,41,64
+S. Kljestan,LA Galaxy,United States,"CM, CAM",36,67,67,325000.0,2000.0,185,77,Right,43,65,72,65,52,64
+K. Kouao,Vizela,Côte d'Ivoire,RB,23,67,74,1900000.0,2000.0,173,65,Right,75,35,50,63,62,65
+Ruben Macedo,Desportivo das Aves,Portugal,"RM, LM",23,67,74,1100000.0,4000.0,171,63,Right,73,64,62,73,26,55
+Thijs Oosting,FC Groningen,Holland,ST,24,67,72,1600000.0,7000.0,176,70,Left,68,69,66,67,58,65
+B. Srarfi,Zulte-Waregem,Tunisia,"LM, LWB, RM",24,67,72,1500000.0,5000.0,176,71,Left,73,62,65,71,50,61
+J. Attinella,Portland Timbers,United States,GK,30,67,67,525000.0,2000.0,188,86,Right,10,10,10,10,10,10
+H. Mendyl,Gaziantep F.K.,Morocco,"LB, LWB",23,67,72,1400000.0,4000.0,179,73,Left,85,43,57,65,61,66
+Tyrique George,Chelsea,England,LM,18,67,84,2600000.0,37000.0,181,75,Right,81,62,58,68,32,52
+J. de Lange,Go Ahead Eagles,Netherlands,GK,25,67,71,1100000.0,2000.0,191,78,Right,10,10,10,10,10,10
+Beni,Casa Pia,Angola,"CM, CDM",21,67,75,2300000.0,2000.0,180,78,Right,67,58,62,66,65,64
+Jonathan Sirois,CF Montréal,Canada,GK,23,67,72,1200000.0,3000.0,187,74,Right,10,10,10,10,10,10
+Costinha,Santa Clara,Portugal,"CAM, CM",29,67,67,1000000.0,3000.0,170,61,Right,75,64,67,68,65,58
+A. Saroka,Sporting Lokeren,Belarus,ST,26,67,70,975000.0,6000.0,188,78,Right,66,67,52,61,20,63
+K. Heerings,Fortuna Sittard,Netherlands,CB,28,67,67,625000.0,4000.0,191,81,Left,40,30,48,47,67,73
+Geraldo,Ümraniyespor,Angola,"ST, RM, LM",30,67,67,1000000.0,6000.0,170,63,Left,80,67,64,75,41,62
+Lucas Africo,Marítimo,Brazil,CB,25,67,69,1100000.0,3000.0,188,80,Left,55,41,54,50,66,76
+P. Papp,Sivasspor,Romania,"CB, RB",28,67,67,625000.0,5000.0,188,80,Right,63,50,57,48,66,69
+D. Dankerlui,Willem II,Netherlands,"RB, LB, RW",22,67,74,950000.0,3000.0,172,64,Right,82,54,62,68,59,68
+L. Mbe Soh,Almere City,France,CB,22,67,77,2100000.0,15000.0,187,86,Right,60,29,49,48,66,71
+N. Casale,Hellas Verona,Italy,CB,23,66,76,1800000.0,6000.0,191,80,Right,63,43,57,59,65,71
+J. Shaffelburg,Nashville SC,Canada,"LM, ST",23,66,70,1200000.0,2000.0,178,74,Left,82,60,60,65,52,62
+K. Vermeulen,Excelsior,Netherlands,CAM,26,66,68,775000.0,4000.0,188,71,Right,63,63,60,64,58,71
+H. Ozmert,Antalyaspor,Turkey,"CM, CDM",37,66,66,275000.0,6000.0,178,76,Right,37,65,71,66,64,60
+Tiago Dantas,Tondela,Portugal,"CM, CAM",20,66,81,2100000.0,3000.0,169,58,Right,70,53,69,73,42,42
+S. Bakıs,Bursaspor,Turkey,"ST, RM",23,66,73,925000.0,6000.0,188,72,Right,51,62,48,59,29,67
+D. van Kaam,SC Cambuur,Netherlands,"CM, CDM",22,66,72,1400000.0,3000.0,175,70,Left,64,56,65,67,60,60
+Madson,Moreirense,Brazil,"LW, RW",23,66,72,1400000.0,4000.0,164,54,Left,74,64,59,67,20,56
+B. Emir,Alanyaspor,Turkey,LB,29,66,66,475000.0,5000.0,178,73,Left,72,46,56,60,67,61
+M. Engels,Roda JC Kerkrade,Germany,"RM, LM",23,66,72,875000.0,3000.0,183,84,Right,75,56,59,69,24,65
+M. Kramer,ADO Den Haag,Netherlands,ST,31,66,66,725000.0,3000.0,196,80,Right,46,64,56,56,35,63
+A. Perea,New York City,United States,"CDM, CM",22,66,74,1800000.0,2000.0,183,72,Right,72,50,60,65,64,68
+D. Dankerlui,FC Groningen,Suriname,RB,25,66,68,975000.0,3000.0,172,64,Right,84,51,60,65,58,68
+Bruno Wilson,Tondela,Portugal,CB,22,66,74,850000.0,2000.0,192,78,Right,52,30,44,44,65,71
+Klaus,RWDM,Brazil,CB,29,66,66,725000.0,6000.0,187,79,Right,40,27,40,36,68,70
+Leo Pereira,Orlando City,Brazil,CB,21,66,70,700000.0,2000.0,186,76,Left,56,35,45,40,66,71
+S. Diarra,Gaziantep F.K.,Mali,"RM, CM",24,66,72,875000.0,4000.0,173,62,Right,66,56,62,69,65,67
+H. Jimenez,Austin,United States,"RB, LB",33,66,66,450000.0,2000.0,175,64,Right,66,60,64,66,64,65
+F. Stokkers,Go Ahead Eagles,Netherlands,ST,27,66,66,925000.0,3000.0,187,81,Right,68,66,44,66,29,71
+D. Van den Buijs,RKC Waalwijk,Belgium,CB,27,66,68,900000.0,3000.0,188,78,Left,56,54,61,57,66,69
+D. Yearwood,New York RB,England,"CM, CDM",23,66,72,1300000.0,2000.0,173,68,Right,77,54,58,70,65,76
+C. Brady,Chicago Fire,United States,GK,19,66,78,1800000.0,800.0,191,77,Right,10,10,10,10,10,10
+J. Ordonez,Club Brugge,Ecuador,CB,19,66,80,1900000.0,3000.0,185,70,Right,63,26,51,52,66,72
+Chris Mueller,Chicago Fire,United States,LM,28,66,66,900000.0,6000.0,175,74,Right,81,64,61,68,25,63
+Chiquinho,Estoril,Portugal,"LW, LM",21,66,76,1900000.0,2000.0,179,72,Right,80,61,58,69,29,56
+Joel Pereira,RKC Waalwijk,Portugal,GK,26,66,70,925000.0,2000.0,188,70,Right,10,10,10,10,10,10
+M. Lovato,Hellas Verona,Italy,CB,20,66,79,1900000.0,5000.0,188,80,Right,63,30,42,52,69,66
+M. Svensson,Willem II,Sweden,LW,23,66,73,1700000.0,3000.0,165,68,Right,81,59,60,69,31,48
+E. Hyndman,Atlanta United,United States,CM,26,65,66,825000.0,2000.0,170,61,Right,61,58,66,67,57,56
+I. Faraj,Royal Excel Mouscron,France,RM,21,65,74,1600000.0,2000.0,177,64,Right,68,58,61,70,28,38
+Z. Bakkali,RKC Waalwijk,Belgium,"LM, RM",27,65,65,750000.0,3000.0,168,70,Right,67,65,62,72,19,51
+Y. Yarmoliuk,Brentford,Ukraine,"CAM, CM, RW",19,65,79,1700000.0,7000.0,180,72,Right,66,58,66,67,45,58
+K. Dougall,Sparta Rotterdam,Australia,"CDM, CM, LB",24,65,69,600000.0,3000.0,182,79,Right,69,42,60,63,61,69
+I. Parlak,Kayserispor,Turkey,"ST, LM",35,65,65,300000.0,4000.0,181,74,Right,59,66,63,64,27,57
+E. Hooi,ADO Den Haag,Curacao,"LW, RW",27,65,65,575000.0,3000.0,169,61,Right,91,54,57,69,24,43
+B. Johnsen,ADO Den Haag,Norway,ST,25,65,68,700000.0,4000.0,195,81,Right,81,61,49,63,22,68
+M. Bossaerts,KV Oostende,Belgium,CB,20,65,72,650000.0,4000.0,184,76,Right,61,31,48,54,63,71
+Manu Hernando,Tondela,Spain,CB,22,65,76,1500000.0,2000.0,183,70,Right,62,42,49,58,66,71
+M. Kolar,FC Emmen,Croatia,"ST, RM",25,65,68,950000.0,2000.0,185,77,Right,74,63,49,65,23,66
+M. Senaya,Strasbourg,France,"RWB, RB, LB",22,65,76,1500000.0,5000.0,179,65,Right,72,41,53,59,64,64
+Romano Postema,FC Groningen,Holland,ST,22,65,73,1600000.0,7000.0,175,67,Right,79,67,52,64,29,60
+A. Lassiter,CF Montréal,Costa Rica,"LM, RM, ST",28,65,65,725000.0,2000.0,178,70,Left,81,63,57,65,38,57
+E. Canpolat,Pendikspor,Turkey,GK,22,65,72,1200000.0,2000.0,194,85,Right,10,10,10,10,10,10
+Y. Akgun,Adana Demirspor,Turkey,"RM, ST, RW",20,65,74,1600000.0,9000.0,173,65,Left,80,63,59,68,29,39
+E. Finlay,Austin,United States,"RM, LM",32,65,65,575000.0,2000.0,175,73,Right,75,62,61,65,42,60
+Marcus Linday,SC Heerenveen,Sweden,CM,21,65,77,1800000.0,6000.0,179,72,Right,60,54,53,60,48,61
+K. Hoever,Wolverhampton Wanderers,Netherlands,"RWB, RB",19,65,80,1600000.0,8000.0,183,72,Right,70,36,59,64,62,61
+Joao Goncalves,Boavista,Portugal,GK,22,65,75,1400000.0,2000.0,188,80,Right,10,10,10,10,10,10
+T. Leysen,OH Leuven,Belgium,GK,21,65,76,1400000.0,2000.0,189,83,Left,10,10,10,10,10,10
+Kyle Smith,Orlando City SC,United States,RB,32,65,65,500000.0,6000.0,180,82,Right,69,26,50,58,64,70
+Ibson Melo,Marítimo,Brazil,LW,27,65,65,575000.0,4000.0,179,72,Left,78,60,56,69,31,56
+R. Raposo,Vancouver Whitecaps,Canada,"LM, RM, LB",24,64,69,875000.0,2000.0,170,64,Right,68,57,61,67,52,50
+R. Belghali,Mechelen,Algeria,RB,21,64,73,1300000.0,2000.0,186,73,Right,81,60,60,62,59,59
+M. Pala,Rizespor,Turkey,"RB, CM, CDM",22,64,70,875000.0,3000.0,172,68,Right,77,43,58,63,57,57
+M. Kean,Hellas Verona,Italy,ST,17,64,84,900000.0,5000.0,182,79,Right,68,65,47,64,21,57
+M. Bogarde,TSG Hoffenheim,Netherlands,"CB, CDM, RB",19,64,81,1400000.0,4000.0,182,72,Right,60,30,50,64,66,62
+B. Diallo,LA Galaxy,France,"RB, LB, CB",26,64,65,425000.0,3000.0,183,79,Left,69,26,51,61,63,74
+Mimeirhel Benita,Heracles Almelo,Holland,RB,21,64,78,1300000.0,4000.0,173,66,Right,80,55,55,68,58,62
+Ibanez,Atalanta,Brazil,CB,20,64,76,750000.0,7000.0,186,80,Right,59,32,36,40,66,64
+N. Zeze,Nantes,France,CB,18,64,82,1400000.0,1000.0,190,76,Left,54,31,40,40,68,58
+H. Alpsoy,Antalyaspor,Switzerland,"CDM, CM",21,64,76,700000.0,3000.0,185,78,Right,71,40,60,57,59,70
+J. Colman,Orlando City,Paraguay,CAM,19,64,76,775000.0,1000.0,168,71,Right,74,55,61,68,22,43
+Bruno Rodrigues,Sporting Braga,Portugal,CB,21,64,77,1400000.0,2000.0,192,86,Right,55,32,43,44,66,67
+B. Gutierrez,Chicago Fire,United States,"LM, CAM, RM",20,64,79,1400000.0,2000.0,178,64,Right,64,58,62,65,37,48
+E. Yardımcı,Pendikspor,Turkey,ST,21,64,74,1300000.0,3000.0,188,78,Right,79,60,52,61,28,65
+Gijs Besselink,FC Twente,Holland,CDM,20,64,78,1300000.0,5000.0,180,68,Right,65,51,55,59,56,58
+C. Gonen,Denizlispor,Turkey,GK,32,64,64,300000.0,4000.0,190,84,Right,10,10,10,10,10,10
+T. Zwarthoed,Excelsior,Netherlands,GK,34,64,64,180000.0,3000.0,188,88,Right,10,10,10,10,10,10
+N. Tafari,Dallas,United States,"CB, RB",26,64,67,675000.0,2000.0,193,84,Right,54,34,47,54,63,74
+A. Ugur,Fatih Karagümrük,Turkey,"CM, CDM",22,64,72,1300000.0,5000.0,174,68,Right,70,53,65,69,61,63
+Show,Boavista,Angola,"CM, CDM",21,64,78,1400000.0,6000.0,180,73,Right,62,47,62,66,63,67
+U. Tohumcu,TSG Hoffenheim,Germany,"CAM, CM",18,64,84,1600000.0,3000.0,175,71,Right,60,59,63,68,38,44
+Tika de Jonge,FC Groningen,Holland,LM,21,64,74,1300000.0,5000.0,183,66,Right,68,57,62,62,31,42
+John Pulskamp,Sporting Kansas City,United States,GK,23,64,69,700000.0,3000.0,188,86,Right,10,10,10,10,10,10
+L. Burnet,Excelsior,Netherlands,LB,27,64,64,375000.0,2000.0,170,65,Left,72,42,58,65,62,59
+S. Voet,Mechelen,Belgium,CB,20,63,74,975000.0,3000.0,191,77,Left,58,39,41,50,65,66
+O. Artan,Gaziantep F.K.,Turkey,"RB, RM",23,63,69,700000.0,2000.0,179,77,Right,68,32,50,61,60,59
+S. Sama,Heracles Almelo,Germany,CB,25,63,68,425000.0,2000.0,189,87,Right,59,25,31,40,60,73
+Y. Maziz,Metz,France,"CM, LM",22,63,69,775000.0,4000.0,175,65,Right,67,54,67,66,30,55
+K. Sano,NEC,Japan,CAM,19,63,77,1100000.0,1000.0,176,66,Right,77,55,61,69,51,50
+Jonathan Dean,Chicago Fire,United States,LB,27,63,63,475000.0,6000.0,173,69,Right,64,36,54,53,58,59
+Khiry Shelton,Sporting Kansas City,United States,ST,31,63,63,400000.0,6000.0,191,84,Right,73,57,56,61,36,78
+PC,Orlando City,Brazil,LB,24,63,70,425000.0,2000.0,173,73,Left,68,45,54,61,61,61
+M. Anderson,Excelsior,Iceland,"RM, LM",20,63,76,700000.0,2000.0,180,69,Right,86,52,51,66,30,53
+M. Tandjigora,Belenenses,Gabon,"CDM, CM",27,63,63,300000.0,2000.0,172,68,Right,77,29,51,54,64,67
+J. Tymon,Famalicão,England,LB,20,63,76,650000.0,5000.0,180,75,Left,67,44,54,63,61,66
+F. Marquet,KV Oostende,Belgium,"CM, CDM, CAM",25,63,66,625000.0,3000.0,172,66,Right,54,53,65,64,62,66
+Rui Gomes,Portimonense,Portugal,"LW, LM",24,63,66,650000.0,2000.0,175,74,Left,71,58,60,63,37,57
+Danny Henriques,Belenenses,Portugal,CB,23,63,72,1000000.0,1000.0,186,81,Left,49,26,47,43,63,67
+I. Cipe,Galatasaray,Turkey,GK,26,63,66,475000.0,8000.0,197,82,Right,10,10,10,10,10,10
+A. Ahmed,Vancouver Whitecaps,Canada,"LM, CM, LB",22,62,73,900000.0,1000.0,180,70,Right,75,53,53,65,55,55
+E. Hurtado,DC United,United States,ST,32,62,62,325000.0,2000.0,176,83,Right,79,62,51,60,33,66
+Q. Sullivan,Philadelphia Union,United States,"CAM, CM",19,62,75,950000.0,900.0,180,69,Right,73,55,62,65,47,51
+B. Niasse,AS Eupen,Senegal,GK,20,62,73,400000.0,2000.0,192,65,Right,10,10,10,10,10,10
+K. Mainoo,Manchester United,England,"CDM, CM, CAM",18,62,84,1200000.0,4000.0,175,80,Right,74,55,58,68,59,67
+N. Nkounkou,Standard Liège,France,LB,20,62,78,1000000.0,8000.0,180,78,Left,80,41,52,61,54,66
+M. Bakrar,New York City,Algeria,"ST, CF",22,62,73,900000.0,2000.0,183,79,Right,59,67,38,56,25,57
+Idrisa Sambu,Royal Excel Mouscron,Portugal,"LW, RW, CAM, ST",20,62,73,525000.0,2000.0,180,78,Right,77,61,50,68,30,63
+Taylor Washington,Nashville SC,United States,LB,31,62,62,350000.0,6000.0,178,77,Left,70,25,44,47,61,56
+L. Petrasso,Toronto,Canada,"LB, LM",22,62,70,850000.0,1000.0,180,73,Left,74,42,59,62,55,62
+G. Gul,Kasımpaşa,Turkey,"CDM, CB",24,62,68,575000.0,2000.0,180,78,Right,61,29,50,58,63,62
+N. Ngoy,Standard Liège,Belgium,"CB, RB",20,62,75,900000.0,2000.0,183,74,Right,74,27,43,51,61,68
+Lukas MacNaughton,DC United,Canada,CB,29,62,62,325000.0,6000.0,188,83,Right,60,31,39,49,62,69
+Helio Varela,Portimonense,Portugal,"LM, RM, LW",21,61,69,725000.0,1000.0,176,69,Right,70,64,51,65,28,54
+L. Egloff,VfB Stuttgart,Germany,"CAM, CF",19,61,78,850000.0,2000.0,182,81,Right,67,52,58,65,33,55
+P. Bos,SC Cambuur,Netherlands,GK,24,61,65,375000.0,950.0,193,78,Right,10,10,10,10,10,10
+Mauricio Cuevas,LA Galaxy,United States,RB,21,61,71,700000.0,4000.0,170,61,Right,72,30,45,55,52,45
+M. Delorge,Sint-Truiden,Belgium,"CM, CDM, CAM",18,61,76,750000.0,900.0,189,76,Left,63,45,64,61,51,58
+J. Scuk,BB Erzurumspor,Bosnia and Herzegovina,"CDM, CM",27,61,62,240000.0,3000.0,184,71,Right,62,51,59,68,63,56
+D. Sula,Waasland-Beveren,Belgium,ST,21,61,70,400000.0,2000.0,182,75,Right,64,60,54,62,19,60
+O. Imeri,Antalyaspor,Albania,"RM, LM",20,61,72,725000.0,2000.0,175,72,Right,67,56,55,66,29,45
+A. Yanar,Kasımpaşa,Turkey,GK,25,61,66,375000.0,2000.0,190,80,Right,10,10,10,10,10,10
+N. Okello,Toronto,Canada,"CDM, CM",21,60,69,525000.0,900.0,196,93,Right,72,44,53,58,55,75
+E. Yardımcı,Alanyaspor,Turkey,"ST, CF",20,60,73,600000.0,3000.0,188,78,Right,62,59,49,61,27,64
+L. Faye,Vitesse,Netherlands,LB,19,60,74,400000.0,1000.0,170,79,Left,63,35,49,58,58,65
+M. Kumbulla,Hellas Verona,Albania,CB,19,60,76,425000.0,1000.0,185,78,Right,58,28,35,34,62,62
+A. Jasson,New York City,United States,"RM, RWB, RB",21,60,75,600000.0,1000.0,175,70,Right,71,47,54,63,41,50
+A. Koc,Kasımpaşa,Turkey,RM,25,60,62,300000.0,2000.0,178,67,Right,75,49,55,68,23,40
+C. Lokesa,RKC Waalwijk,Belgium,CAM,18,59,75,575000.0,650.0,185,70,Right,72,54,58,61,38,45
+J. Greene,DC United,United States,"LB, LWB, LM",20,59,71,525000.0,900.0,178,64,Left,75,37,45,59,54,54
+S. Guediri,DC United,United States,"LB, LWB",24,59,64,325000.0,1000.0,180,77,Left,62,39,55,58,56,57
+P. Awuku,Yeni Malatyaspor,Ghana,CB,21,59,67,475000.0,2000.0,194,84,Left,60,29,32,34,59,68
+M. Berisha,Lecce,Kosovo,CM,19,59,78,575000.0,2000.0,186,81,Right,57,47,58,58,53,63
+D. Reiziger,Vitesse,Netherlands,GK,21,59,70,450000.0,1000.0,184,78,Right,10,10,10,10,10,10
+J. de Boer,FC Groningen,Netherlands,GK,22,58,69,400000.0,1000.0,199,95,Right,10,10,10,10,10,10
+M. Caytemel,Hatayspor,Turkey,"LM, LB",36,58,58,70000.0,2000.0,174,74,Left,59,50,55,60,57,43
+Brooklyn Raines,Houston Dynamo,United States,CM,19,58,75,525000.0,4000.0,172,63,Right,72,44,50,58,48,44
+A. McFadden,Atlanta United,United States,"RB, RWB, RM",23,56,65,300000.0,1000.0,175,75,Right,61,53,46,61,56,51
+L. Lipani,Sassuolo,Italy,"CDM, CM",18,56,79,425000.0,700.0,187,78,Right,62,44,55,50,52,63
+D. Teves,Seattle Sounders,United States,RM,23,55,63,275000.0,1000.0,172,63,Right,66,51,50,56,44,46
+A. Guneren,Ankaragücü,Turkey,CM,23,54,62,240000.0,2000.0,183,70,Right,67,43,54,55,48,59
