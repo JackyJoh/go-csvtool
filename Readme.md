@@ -2,6 +2,19 @@
 
 A small CLI tool for poking around CSV files from the terminal. Built as a Go learning project before starting [JacksonDB](#), a columnar storage engine.
 
+## Install
+
+```bash
+go install github.com/JackyJoh/go-csvtool@latest
+```
+
+Or clone and build locally:
+```bash
+git clone https://github.com/JackyJoh/go-csvtool.git
+cd go-csvtool
+go build -o csvtool
+```
+
 ## Commands
 
 Prints min/max/mean for numeric columns and a count for everything else.
