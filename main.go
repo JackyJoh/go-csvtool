@@ -49,6 +49,7 @@ func main() {
 
 	case "head":
 		n := 10 // default 10 rows
+		// get length of header
 		if len(os.Args) == 5 && os.Args[3] == "--n" {
 			tempN, err := strconv.Atoi(os.Args[4])
 			if err != nil {
@@ -57,6 +58,8 @@ func main() {
 			}
 			n = tempN
 		}
+
+		// get the head rows and print
 		headRows, err := head(ds, n)
 		if err != nil {
 			fmt.Println("error:", err)
@@ -65,15 +68,20 @@ func main() {
 		printRows(ds.Header, headRows)
 
 	case "col":
+		// get column name
 		var name string
 		if len(os.Args) == 5 && os.Args[3] == "--name" {
 			name = os.Args[4]
 		}
+
+		// get column index
 		index, err := colIndex(ds.Header, name)
 		if err != nil {
 			fmt.Println("error getting header index:", err)
 			return
 		}
+
+		// get column (all rows) and print
 		column, err := cols(ds, index)
 		if err != nil {
 			fmt.Println("error:", err)
