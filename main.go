@@ -16,8 +16,7 @@ func printRows(header []string, rows [][]string) {
 	}
 }
 
-func printCol(header string, values []string) {
-	fmt.Println(header)
+func printCol(values []string) {
 	for _, v := range values {
 		fmt.Println(v)
 	}
@@ -80,7 +79,7 @@ func main() {
 			fmt.Println("error:", err)
 			return
 		}
-		printCol(name, column)
+		printCol(column)
 
 	}
 

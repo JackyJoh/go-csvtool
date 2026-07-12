@@ -4,20 +4,20 @@ A small CLI tool for poking around CSV files from the terminal. Built as a Go le
 
 ## Commands
 
+Prints min/max/mean for numeric columns and a count for everything else.
 ```bash
 csvtool stats <file>
 ```
-Prints min/max/mean for numeric columns and a count for everything else.
 
+Prints the first N rows. Defaults to 10 if `--n` isn't set.
 ```bash
 csvtool head <file> --n 20
 ```
-Prints the first N rows. Defaults to 10 if `--n` isn't set.
 
-```bash
-csvtool col <file> --name category
-```
 Prints every value in a given column.
+```bash
+csvtool col <file> --name <column_name>
+```
 
 ## Example
 
