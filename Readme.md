@@ -29,11 +29,12 @@ overall{ count: 500, min: 54, max: 90, avg: 71.03}
 value_eur{ count: 500, min: 70000, max: 99500000, avg: 6999880.00}
 
 $ csvtool head fifa_players.csv --n 3
+(showing 4 of 18 columns for readability — head prints every column)
 
-short_name, club_name, overall, value_eur
-L. Messi, Inter Miami, 90, 41000000
-A. Griezmann, Atlético Madrid, 88, 74000000
-Martin Ødegaard, Arsenal, 87, 99500000
+short_name, club_name, overall, value_eur  ...
+L. Messi, Inter Miami, 90, 41000000  ...
+A. Griezmann, Atlético Madrid, 88, 74000000  ...
+Martin Ødegaard, Arsenal, 87, 99500000  ...
 
 $ csvtool col fifa_players.csv --name club_name
 
@@ -42,3 +43,7 @@ Atlético Madrid
 Arsenal
 ...
 ```
+
+## Dataset
+
+The included `fifa_players.csv` is a small truncated sample (500 rows) for testing. If you want the full dataset, I published it on Kaggle: [FIFA and IRL Soccer Player Data](https://www.kaggle.com/datasets/jacksonjohannessen/fifa-and-irl-soccer-player-data).
