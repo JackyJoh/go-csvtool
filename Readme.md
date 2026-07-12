@@ -5,13 +5,13 @@ A small CLI tool for poking around CSV files from the terminal. Built as a Go le
 ## Install
 
 ```bash
-go install github.com/JackyJoh/go-csvtool@latest
+go install github.com/JackyJoh/go-csvtool/csvtool@latest
 ```
 
 Or clone and build locally:
 ```bash
 git clone https://github.com/JackyJoh/go-csvtool.git
-cd go-csvtool
+cd go-csvtool/csvtool
 go build -o csvtool
 ```
 
